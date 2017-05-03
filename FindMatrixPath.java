@@ -1,7 +1,7 @@
 package io.algo.dp;
 
 /**
- * Created by anvika on 4/8/17.
+ * Created by animesh on 4/8/17.
  */
 public class FindMatrixPath {
 
