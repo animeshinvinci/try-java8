@@ -6,6 +6,7 @@ import java.util.Arrays;
 
 /**
  * Created by animesh on 5/9/17.
+ *
  */
 public class FilterList {
 
